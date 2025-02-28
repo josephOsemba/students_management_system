@@ -31,7 +31,7 @@ Make sure you have the following installed:
 1. Clone the repository:
 
 ```
-git clone https://github.com/your-repo/your-project.git
+git clone https://github.com/josephOsemba/students_management_system.git
 ```
 
 2. Navigate to the project directory:
@@ -61,7 +61,9 @@ Run the application with the following command:
 ```
 python frontend.py
 ```
-
+```
+python backend.py
+```
 ## Troubleshooting
 
 **Error:** `AttributeError: 'StudentManager' object has no attribute 'update_student'`
